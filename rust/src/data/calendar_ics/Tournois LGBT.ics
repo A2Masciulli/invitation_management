@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tournois LGBT
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:Liste des tournois LGBT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230825
+DTEND;VALUE=DATE:20230829
+DTSTAMP:20240606T143252Z
+UID:3a4v2jeu4gu4d7270utnj3jlj8@google.com
+CLASS:PUBLIC
+CREATED:20230716T113826Z
+DESCRIPTION:Les infos ici : <a href="https://timmcdc.fr/">https://timmcdc.f
+ r/</a>
+LAST-MODIFIED:20230716T113826Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TIMM - Tournoi international de Montpellier
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231006
+DTEND;VALUE=DATE:20231009
+DTSTAMP:20240606T143252Z
+UID:452ris3pv7o2009j4lugssoiq1@google.com
+CREATED:20230716T114503Z
+DESCRIPTION:Toutes les informations ici : <a href="https://www.bagnantes.fr
+ /actualit%C3%A9s/tournoi-welcome-bag/">https://www.bagnantes.fr/actualit%C3
+ %A9s/tournoi-welcome-bag/</a>
+LAST-MODIFIED:20230716T114503Z
+LOCATION:Nantes\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BAG Nantes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231027
+DTEND;VALUE=DATE:20231030
+DTSTAMP:20240606T143252Z
+UID:2ep089vqipgn9p72h7utie1gfu@google.com
+CREATED:20230716T115054Z
+DESCRIPTION:Plus d'infos : <a href="https://www.facebook.com/tournoisobad">
+ https://www.facebook.com/tournoisobad</a>
+LAST-MODIFIED:20230716T115054Z
+LOCATION:Niort\, 79000 Niort\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:So BAD - Niort
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231103
+DTEND;VALUE=DATE:20231112
+DTSTAMP:20240606T143252Z
+UID:0qkteulellib0ufetp63p952b5@google.com
+CREATED:20230716T115740Z
+DESCRIPTION:Infos : <a href="https://gaygames.org/Gay-Games-11">https://gay
+ games.org/Gay-Games-11</a>
+LAST-MODIFIED:20230716T115826Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:11èmes Gay Games - Guadalajara & Hong-Kong
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240426
+DTEND;VALUE=DATE:20240429
+DTSTAMP:20240606T143252Z
+UID:2sj11g74on4nhiuiua1a0t7id4@google.com
+CREATED:20231027T130039Z
+DESCRIPTION:<b>C'est officiel\, vous pouvez réserver votre 26 - 27 - 28 AVR
+ IL 2024 pour venir à Rennes.</b><br><br>Et cette année\, un thème unique po
+ ur l'ensemble du tournoi...mais on garde encore un peu le secret avant de t
+ out vous dire !<br><br><u>Autres nouveautés\,</u> trois épreuves supplément
+ aires devraient voir le jour : Escalade\, Running et Jeux de Cartes.<br><u>
+ Et toujours nos classiques : </u>Badminton\, Volley\, Squash\, Rallye Vélo 
+ et Rallye Urbain (randonnée à énigme).<br><br>On compte sur votre présence 
+ et on espère des représentant.e.s des 4 coins de la France...et peut-être m
+ ême de l'Europe.<br><br>Pour rappel\,<b> le <span>Tournoi International LBG
+ T et Hétéro Friendly de Rennes\, le TIGRE </span></b><span><b>rassemble plu
+ s de 400 sportifs.ves.</b> Il se découpe en plusieurs partie :</span><br><u
+ l><li><span>Vendredi soir\, une soirée d'accueil des participant.e.s.</span
+ ></li><li><span>Le samedi en journée\, une partie sportive avec plusieurs c
+ ompétitions qui ont lieu dans différents lieux de Rennes métropole.</span><
+ /li><li><font>Une partie festive le samedi soir qui met en avant nos adhére
+ nt.e.s à travers un </font>spectacle. A noter\, que la soirée est ouverte à
+  tous·tes et pas uniquement aux compétiteur·rice.s</li><li><span>Un brunch 
+ le dimanche midi.</span><br></li></ul>
+LAST-MODIFIED:20231027T130039Z
+LOCATION:Rennes\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TIGRE - Rennes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240402
+DTSTAMP:20240606T143252Z
+UID:6p2n3cjkvttmnamtls54t84el8@google.com
+CREATED:20240128T194558Z
+DESCRIPTION:<b>Le site pour toutes les infos : </b><a href="https://www.gsm
+ -marseille.org/inscriptions">https://www.gsm-marseille.org/inscriptions</a>
+LAST-MODIFIED:20240128T194558Z
+LOCATION:Marseille\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GSM 2024 - Marseille
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240408
+DTSTAMP:20240606T143252Z
+UID:235hf55muju87ljc9t10eueuko@google.com
+CREATED:20240128T194919Z
+DESCRIPTION:<b>Le site de l'asso : </b><a href="https://www.toursangels.com
+ /page/2334986-presentation">https://www.toursangels.com/page/2334986-presen
+ tation</a>
+LAST-MODIFIED:20240128T194919Z
+LOCATION:Tours\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tours Angels - Tours (à confirmer)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240521
+DTSTAMP:20240606T143252Z
+UID:7o5slfnmr8rqfpdjsjd61irkaf@google.com
+CLASS:PUBLIC
+CREATED:20230717T110916Z
+LAST-MODIFIED:20240423T222204Z
+LOCATION:Paris\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TIP - Paris
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
