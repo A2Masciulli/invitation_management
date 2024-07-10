@@ -20,10 +20,6 @@ fn main() {
     println!("Gestion des invitations");
 
     let (host_name, guest_name, invitation_date, play_date) = read_invitation_information();
-    // let host_name = String::from("Alizée Masciulli");
-    // let guest_name = String::from("Thomas Erard");
-    // let invitation_date = String::from("2024-06-08");
-    // let play_date = String::from("2024-07-04");
     let date: String =Utc::now().format("%Y-%m-%d").to_string();
 
     
@@ -42,8 +38,8 @@ fn main() {
     } else {
         println!("L'invitation est demandé pour une date après le 1er décembre 2023: NEXT STEP");
         let check_inivtation_date: i64 = play_date.signed_duration_since(invitation_date).num_days();
-        if check_inivtation_date <= 2 {
-            reason = String::from("La demande d'invitation est faite moins de 3 jours avant la date de jeu"); 
+        if check_inivtation_date <= 0 {
+            reason = String::from("La demande d'invitation est faite moins de 1 jours avant la date de jeu"); 
             answer = Some(0);
             println!("{:?}", reason);
         } else {
@@ -127,7 +123,6 @@ fn main() {
 }
 
 
-    
 
 fn print_type_of<T>(_: &T) {
     println!("{}", std::any::type_name::<T>())
