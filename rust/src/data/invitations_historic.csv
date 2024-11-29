@@ -1,13 +1,42 @@
-date;host_name;play_date;invitation_date;guest_name;answer;reason
-10/07/2024;"Nicolas Fevrier
-";11/07/2024;08/07/2024;"Titouan Vigneau
+date;host_name;play_date;guest_name;answer;reason
+08/07/2024;"Nicolas Fevrier
+";11/07/2024;"Titouan Vigneau
 ";1;None
 10/07/2024;"Caroline Cohen
-";11/07/2024;10/07/2024;"Celine Nguyen
+";11/07/2024;"Celine Nguyen
 ";1;None
-2024-07-16;"Nicolas Fevrier
-";2024-07-18;2024-07-16;"Titouan Vigneau
+16/07/2024;"Nicolas Fevrier
+";18/07/2024;"Titouan Vigneau
 ";1;None
-2024-07-19;"Zelie Nguyen
-";2024-07-21;2024-07-19;"Simon Roburin
+19/07/2024;"Zelie Nguyen
+";21/07/2024;"Simon Roburin
 ";1;None
+24/07/2024;"Christopher Detruchis
+";25/07/2024;"Lisa Detruchis
+";1;None
+27/07/2024;"Florence Roussel
+";01/08/2024;"Carole Keller
+";1;None
+06/08/2024;"Olivier Jacques-Sermet
+";08/08/2024;"Brandon Louis
+";1;None
+08/08/2024;"Charline Zeitoun
+";11/08/2024;"Laurent Zeitoune
+";1;None
+11/08/2024;"Cecile Magois
+";18/08/2024;"Mathieu Fontan
+";1;None
+21/08/2024;"Mael Ledeunff
+";22/08/2024;"Diana Phrakousonh
+";1;None
+23/08/2024;"Liang Xu
+";25/08/2024;"He Shen
+";1;None
+26/08/2024;"Anatole Boudesseul
+";29/08/2024;"Titouan Vigneau
+";1;None
+2024-11-27;alizee_ma_74979;2024-11-30;testtest;1;L'invitation est demandé pour une date avant le 1er décembre 2024
+2024-11-27;alizee_ma_74979;2024-11-30;erardthomas;1;L'invitation est demandé pour une date avant le 1er décembre 2024
+2024-11-27;alizee_ma_74979;2024-11-30;erardthomas;1;L'invitation est demandé pour une date avant le 1er décembre 2024
+2024-11-27;alizee_ma_74979;2024-11-30;erardthomas;1;L'invitation est demandé pour une date avant le 1er décembre 2024
+2024-11-27;alizee;2024-11-12;test;1;L'invitation est demandé pour une date avant le 1er décembre 2024
